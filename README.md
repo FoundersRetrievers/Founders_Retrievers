@@ -41,13 +41,13 @@ Founders Retrievers is a web application designed to streamline the lost and fou
 
 ## Team Members
 
-- **Sondos Abuyounis (Lead Developer)**
-  - [LinkedIn](#)
-  - Email: [sondos@foundersretrievers.com](mailto:sondos@foundersretrievers.com)
+- **Sondos Abuyounis**
+  - [LinkedIn](http://linkedin.com/in/sundosabuyounes)
+  - Email: [abuyounissondos@gmail.com](mailto:sondos@foundersretrievers.com)
 
-- **Amer Smadi (Technical Lead)**
-  - [LinkedIn](#)
-  - Email: [amer@foundersretrievers.com](mailto:amer@foundersretrievers.com)
+- **Amer Smadi**
+  - [LinkedIn](https://www.linkedin.com/in/amer-smadi/)
+  - Email: [amer.smadixx@gmail.com](mailto:amer@foundersretrievers.com)
 
 ## Project Structure
 
@@ -57,13 +57,10 @@ Founders Retrievers is a web application designed to streamline the lost and fou
 
 ## Additional Resources
 
-- **[Documentation](#):** Explore detailed documentation for the Founders Retrievers project.
-- **[Issue Tracker](https://github.com/your-username/founders-retrievers/issues):** Report issues or contribute by tackling existing ones.
-- **[Contribution Guidelines](CONTRIBUTING.md):** Learn how to contribute to the project.
+- **[Project Brief](https://docs.google.com/document/d/1t24om4bHZDi1XQWPe0UmDAZqClagMfYwTcAaNRYW3Lw/edit):** Explore an overview of the project
+- **[Project Documentation](https://docs.google.com/document/d/1I99wycKGacMofl1z2NxPQ1Zp2kvQOg3E_s_TDO-Gfno/edit#heading=h.enjvcofoqo5k):** Explore detailed documentation for the Founders Retrievers project.
+- **[Project Figma](https://www.figma.com/file/dmEdccUWNsdUszUY0XAdZd/Lost-and-Found?type=design&node-id=0-1&mode=design&t=xN1S5J80Iv3R9Fbo-0):** Explore the mockup and wireframe of the website
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
